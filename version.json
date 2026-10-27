@@ -2,5 +2,5 @@
   "version": "0.4.2",
   "date": "2026-10-27",
   "notes": "本次更新：\n· 修复 Windows 150% / 125% 缩放下界面右侧和底部被裁切、按钮跑到窗口外的问题\n· 现在任何缩放比例下界面都能完整显示\n· 其它功能与上一版一致",
-  "url": ""
+  "url": "https://github.com/by104293-droid/narrative-spear/releases/download/v0.4.2/Xushi_v0.4.2_win64.zip"
 }
