@@ -2,5 +2,5 @@
   "version": "0.4.1",
   "date": "2026-10-27",
   "notes": "本次更新：\n· 修复 Windows 150% 缩放下界面右侧被裁、按钮跑到窗口外的问题\n· 修复「更新公告」窗口在打包版里不弹出的问题\n· 更新检测增加国内镜像自动回退（raw → jsDelivr → ghproxy）\n· 更新地址改到 update_url.txt，以后改地址不用重新打包\n· 新增一键发版脚本，作者发新版更快",
-  "url": ""
+  "url": "https://github.com/by104293-droid/narrative-spear/releases/download/v0.4.1/Xushi_v0.4.1_win64.zip"
 }
