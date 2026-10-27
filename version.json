@@ -2,5 +2,5 @@
   "version": "0.4.0",
   "date": "2026-10-27",
   "notes": "首发版本。\n\n· 一键下载 / 安装 Minecraft 1.20.1（原版 + Forge 47.4.10 模组版）\n· LittleSkin 皮肤登录，支持外置皮肤\n· 模组 / 光影管理，内置 Photon Shader 一键安装\n· 界面改成 PCL2 浅色风格\n· 每次启动自动检查更新（就是你现在看到的这个公告）\n\n更新方法：下载新的安装包，解压覆盖到原来的文件夹即可，存档和 .minecraft 都不受影响。",
-  "url": "https://github.com/by104293-droid/narrative-spear/releases/download/v0.4.0/_v0.4.0_.zip"
+  "url": "https://github.com/by104293-droid/narrative-spear/releases/download/v0.4.0/Xushi_v0.4.0_win64.zip"
 }
