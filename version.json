@@ -2,5 +2,5 @@
   "version": "0.4.12",
   "date": "2026-10-28",
   "notes": "本次更新：\n· 更新变简单了：公告窗里多了「一键更新」按钮，点一下自动下载、替换文件、重启，\n  不用再手动解压覆盖\n· 原来的「用浏览器下载」保留，想手动更新也行\n· 完整版继续内置 Java 17 / Forge 47.4.10 / Photon 光影 / 万用皮肤模组，\n  对应下载按钮保持「已内置」并禁用\n· 光影下载继续官方地址优先、镜像兜底\n",
-  "url": ""
+  "url": "https://github.com/by104293-droid/narrative-spear/releases/download/v0.4.12/Xushi_v0.4.12_win64.zip"
 }
