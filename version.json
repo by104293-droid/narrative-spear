@@ -2,5 +2,5 @@
   "version": "0.4.13",
   "date": "2026-10-28",
   "notes": "本次更新：\n· 修复「更新检测没生效」：之前发布出去的包里缺少更新地址，启动器根本不会去查新版本；\n  现在地址已内置，朋友打开就会自动检测\n· 公告窗保留「一键更新」：点一下自动下载替换并重启\n· 完整版依旧内置 Java 17 / Forge / 光影 / 万用皮肤模组\n",
-  "url": ""
+  "url": "https://github.com/by104293-droid/narrative-spear/releases/download/v0.4.13/Xushi_v0.4.13_win64.zip"
 }
